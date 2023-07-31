@@ -1,0 +1,62 @@
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\appsettings.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.staticwebassets.runtime.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.exe
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.deps.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.runtimeconfig.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.dll
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\bin\Debug\net7.0\HTML Rendering.pdb
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.AssemblyInfo.cs
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.RazorAssemblyInfo.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.RazorAssemblyInfo.cs
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.HTML Rendering.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.build.HTML Rendering.props
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HTML Rendering.props
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HTML Rendering.props
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\scopedcss\bundle\HTML Rendering.styles.css
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\scopedcss\projectbundle\HTML Rendering.bundle.scp.css
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.dll
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\refint\HTML Rendering.dll
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.pdb
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\HTML Rendering.genruntimeconfig.cache
+C:\Users\kubra\Desktop\HTML Rendering\HTML Rendering\obj\Debug\net7.0\ref\HTML Rendering.dll
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\appsettings.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.staticwebassets.runtime.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.exe
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.deps.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.runtimeconfig.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.dll
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\bin\Debug\net7.0\HTML Rendering.pdb
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.AssemblyInfoInputs.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.AssemblyInfo.cs
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.RazorAssemblyInfo.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.RazorAssemblyInfo.cs
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.HTML Rendering.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.build.HTML Rendering.props
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HTML Rendering.props
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HTML Rendering.props
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\scopedcss\bundle\HTML Rendering.styles.css
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\scopedcss\projectbundle\HTML Rendering.bundle.scp.css
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.dll
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\refint\HTML Rendering.dll
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.pdb
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\HTML Rendering.genruntimeconfig.cache
+C:\Users\kubra\Desktop\@model Direktifi\HTML Rendering\obj\Debug\net7.0\ref\HTML Rendering.dll

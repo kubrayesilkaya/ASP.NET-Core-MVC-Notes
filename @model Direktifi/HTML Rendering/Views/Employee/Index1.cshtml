@@ -1,0 +1,18 @@
+﻿@model string 
+
+@* @model direktifinde bu sayfada kullanılacak olan veri tipi her ne ise onu belirtiyoruz.
+    Bu bir class, dizi, liste.. olabilir. Şuanda string, model direktifi ile bunu belirlemiş olduk.
+
+    Ne zaman c# kodu yazacak isek; ne zaman dinamik bir koda geçiş yapacak isek razor page içerisinde iken @
+    ifadesini kulllacağız. Bu @ ifadesini kullanırken @Model ifadesine geçiş yaparsak, bu aslında sayfaya taşıdğımız model.
+    Yani bir string anlamına gelecek. Sayfaya taşıdığımız model, message isimli bir string, ve o stringin içerisinde
+    Hello World ifadesini ve tarih-zaman bilgisini döndürecek
+*@
+
+<div class="display-6">
+    Index 1
+</div>
+
+<div class="lead">
+    @Model
+</div>
