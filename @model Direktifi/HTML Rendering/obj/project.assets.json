@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kubra\\Desktop\\@model Direktifi\\HTML Rendering\\HTML Rendering.csproj",
+      "projectUniqueName": "C:\\Users\\kubra\\Desktop\\BTK - ASP .NET CORE\\@model Direktifi\\HTML Rendering\\HTML Rendering.csproj",
       "projectName": "HTML Rendering",
-      "projectPath": "C:\\Users\\kubra\\Desktop\\@model Direktifi\\HTML Rendering\\HTML Rendering.csproj",
+      "projectPath": "C:\\Users\\kubra\\Desktop\\BTK - ASP .NET CORE\\@model Direktifi\\HTML Rendering\\HTML Rendering.csproj",
       "packagesPath": "C:\\Users\\kubra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kubra\\Desktop\\@model Direktifi\\HTML Rendering\\obj\\",
+      "outputPath": "C:\\Users\\kubra\\Desktop\\BTK - ASP .NET CORE\\@model Direktifi\\HTML Rendering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kubra\\AppData\\Roaming\\NuGet\\NuGet.Config",
